@@ -1,6 +1,6 @@
 # React english quiz
 
-[Демонстрация](https://Linsaym.github.io/react_eng_quiz/)
+[Демонстрация](https://linsaym.github.io/react_eng_quiz/)
 
 > Приложение по составлению перевода слов из перемещаемых блоков.
 
@@ -9,7 +9,7 @@
 ```bash
 $ mkdir react_eng_quiz
 $ cd react_eng_quiz
-$ git clone https://github.com/avatarsik6699/react_eng_quiz.git
+$ git clone https://github.com/linsaym/react_eng_quiz.git
 ```
 
 ### Основная информация
